@@ -4,7 +4,13 @@
 //     console.log("jello");
 // }
 let i=0;
-while (i<=5){
-    console.log("jello");
+// while (i<=5){
+//     console.log("jello");
+//     i++;
+// }
+
+do{
+    console.log("hello world");
     i++;
-}
+
+} while (i<=5);
